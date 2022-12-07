@@ -7,12 +7,12 @@ import dabl
 
 data = pd.read_csv("StudentsPerformance.csv")
 
-plt.rcParams['figure.figsize'] = (15, 9)
-plt.style.use('tableau-colorblind10')
+plt.rcParams["figure.figsize"] = (15, 9)
+plt.style.use("tableau-colorblind10")
 
-sns.countplot(data['math score'], palette = 'BuPu')
-plt.title('Comparison of math scores', fontweight = 30, fontsize = 20)
-plt.xlabel('score')
-plt.ylabel('count')
-plt.xticks(rotation = 90)
+sns.countplot(data["math score"], palette="BuPu")
+plt.title("Comparison of math scores", fontweight=30, fontsize=20)
+plt.xlabel("score")
+plt.ylabel("count")
+plt.xticks(rotation=90)
 plt.show()
