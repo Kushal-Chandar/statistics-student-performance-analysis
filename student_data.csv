@@ -2,21 +2,21 @@ gender,reason,traveltime,studytime,failures,activities,higher,siblings,freetime,
 F,course,2,2,0,no,yes,2,3,4,4,F,B,B,Masters,yes
 F,course,1,2,0,no,yes,3,3,3,2,C,B,B,10th Pass,yes
 F,other,1,2,0,no,yes,2,3,2,6,B,B+,B,10th Pass,yes
-F,home,1,3,0,yes,yes,2,2,2,0,B+,B+,B+,Masters,No
+F,home,1,3,0,yes,yes,2,2,2,0,B+,B+,B+,Masters,no
 F,home,1,2,0,no,yes,2,3,2,0,B,B+,B+,Bachelors,yes
 M,reputation,1,2,0,yes,yes,3,4,2,6,B,B,B+,Masters,yes
 M,home,1,2,0,no,yes,2,4,4,0,B+,B,B+,12th Pass,yes
-F,home,2,2,0,no,yes,2,1,4,2,C,B+,B+,Masters,No
+F,home,2,2,0,no,yes,2,1,4,2,C,B+,B+,Masters,no
 M,home,1,2,0,no,yes,2,2,2,0,A,A,A+,Bachelors,yes
 M,home,1,2,0,yes,yes,3,5,1,0,B,B,B+,Masters,yes
-F,reputation,1,2,0,no,yes,2,3,3,2,B+,B+,B+,Masters,No
+F,reputation,1,2,0,no,yes,2,3,3,2,B+,B+,B+,Masters,no
 F,reputation,3,3,0,yes,yes,3,2,2,0,C,B,B+,12th Pass,yes
 M,course,1,1,0,yes,yes,2,3,3,0,B,B+,B,Masters,yes
 M,course,2,2,0,no,yes,3,4,3,0,B,B,B+,Masters,yes
 M,home,1,3,0,no,yes,2,5,2,0,B+,B+,A,12th Pass,yes
-F,home,1,1,0,no,yes,2,4,4,6,A+,A+,A+,Masters,No
+F,home,1,1,0,no,yes,2,4,4,6,A+,A+,A+,Masters,no
 F,reputation,1,3,0,yes,yes,2,2,3,10,B+,B+,B+,Masters,yes
-F,reputation,3,2,0,yes,yes,3,3,2,2,B+,B+,B+,Bachelors,No
+F,reputation,3,2,0,yes,yes,3,3,2,2,B+,B+,B+,Bachelors,no
 M,course,1,1,3,yes,yes,3,5,5,2,D,D,D,Bachelors,yes
 M,home,1,1,0,yes,yes,2,1,3,6,B,B,B,Masters,yes
 M,reputation,1,2,0,no,yes,2,4,1,0,B,B+,B+,Masters,yes
@@ -24,10 +24,10 @@ M,other,1,1,0,no,yes,3,4,2,0,B,B,B,Masters,yes
 M,course,1,2,0,yes,yes,2,5,1,0,B,B+,B+,Masters,yes
 M,reputation,2,2,0,yes,yes,3,4,4,2,C,C,C,12th Pass,yes
 F,course,1,3,0,yes,yes,2,3,2,2,C,B,C,Masters,yes
-F,home,1,1,0,no,yes,0,2,2,6,C,B,B,12th Pass,No
+F,home,1,1,0,no,yes,0,2,2,6,C,B,B,12th Pass,no
 M,home,1,1,0,no,yes,2,2,2,8,B,B,B,12th Pass,yes
 M,other,1,1,0,no,yes,1,2,4,0,B,B,B,Masters,yes
-M,home,1,2,0,yes,yes,3,3,3,2,B,B,B+,Masters,No
+M,home,1,2,0,yes,yes,3,3,3,2,B,B,B+,Masters,no
 M,home,1,2,0,yes,yes,2,4,5,4,B,B,B,Masters,yes
 M,home,1,2,0,no,yes,3,4,2,0,C,B,B,Masters,yes
 M,reputation,2,2,0,yes,yes,2,3,1,2,A,A,A,Masters,yes
@@ -35,19 +35,19 @@ M,course,1,2,0,yes,yes,2,5,2,0,B+,B+,A,Masters,yes
 M,course,1,2,0,yes,yes,3,3,2,0,B+,B,B,Bachelors,yes
 M,home,1,1,0,no,yes,3,4,3,4,B,B,B,Bachelors,yes
 F,other,2,1,0,yes,yes,2,5,1,4,B,B,B,Bachelors,yes
-M,home,1,3,0,yes,yes,3,4,3,0,B+,B+,B+,Masters,No
-M,reputation,2,3,0,yes,yes,1,4,3,4,B+,B+,B+,Masters,No
+M,home,1,3,0,yes,yes,3,4,3,0,B+,B+,B+,Masters,no
+M,reputation,2,3,0,yes,yes,1,4,3,4,B+,B+,B+,Masters,no
 F,course,1,3,0,yes,yes,2,3,2,2,B,B,B,Masters,yes
 F,reputation,1,1,0,yes,yes,2,3,1,8,B+,B+,B,12th Pass,yes
-F,home,2,2,0,yes,yes,2,3,3,16,B,B,C,12th Pass,No
-M,home,1,1,0,no,yes,3,4,3,8,C,B,B,Masters,No
+F,home,2,2,0,yes,yes,2,3,3,16,B,B,C,12th Pass,no
+M,home,1,1,0,no,yes,3,4,3,8,C,B,B,Masters,no
 M,course,1,2,0,yes,yes,2,3,3,0,B+,A,A,Masters,yes
 M,course,1,1,0,no,yes,3,4,1,0,C,C,C,12th Pass,yes
-F,course,2,2,1,yes,yes,2,3,3,14,C,B,B,12th Pass,No
+F,course,2,2,1,yes,yes,2,3,3,14,C,B,B,12th Pass,no
 F,course,1,2,0,yes,yes,3,2,2,4,C,B,B,Masters,yes
 F,home,1,2,0,no,yes,1,3,5,6,B+,B,B+,Bachelors,yes
-M,reputation,1,4,0,yes,yes,2,2,2,2,A+,A+,A+,Masters,No
-M,home,1,2,0,no,yes,2,3,3,4,B,B,B+,Masters,No
+M,reputation,1,4,0,yes,yes,2,2,2,2,A+,A+,A+,Masters,no
+M,home,1,2,0,no,yes,2,3,3,4,B,B,B+,Masters,no
 F,other,1,2,0,yes,yes,2,4,4,2,B+,B,B,Masters,yes
 F,course,3,2,0,no,yes,2,3,3,0,B+,B+,B+,12th Pass,yes
 F,other,1,2,0,no,yes,2,3,3,0,A,B+,A,Masters,yes
@@ -57,21 +57,21 @@ F,other,1,1,0,no,yes,3,3,4,0,B+,B,B+,Bachelors,yes
 F,other,1,2,0,yes,yes,3,3,4,2,B,B+,B,12th Pass,yes
 F,reputation,1,2,0,yes,yes,2,3,2,0,A,B+,A,Masters,yes
 M,reputation,1,2,0,yes,yes,2,2,2,8,A,A,A,Masters,yes
-M,home,1,2,0,yes,yes,2,3,2,0,B+,B+,B+,12th Pass,No
+M,home,1,2,0,yes,yes,2,3,2,0,B+,B+,B+,12th Pass,no
 F,course,1,2,0,no,yes,2,2,3,2,A,A,A,Masters,yes
 F,other,1,2,0,yes,yes,1,4,4,0,A+,A,A,Masters,yes
-F,course,4,1,0,yes,yes,3,5,5,0,C,C,A,10th Pass,No
+F,course,4,1,0,yes,yes,3,5,5,0,C,C,A,10th Pass,no
 F,reputation,1,2,0,yes,yes,2,4,3,0,B+,B+,C,12th Pass,yes
 F,home,1,3,0,yes,yes,2,4,4,0,B+,B+,B+,Masters,yes
 F,reputation,1,2,0,yes,yes,2,4,4,0,B+,B,B,Masters,yes
 F,course,3,2,0,yes,yes,3,4,3,2,A,A,A,Masters,yes
-M,reputation,1,4,0,yes,yes,0,3,3,0,B,B,B,Masters,No
-F,course,1,4,0,no,yes,2,3,3,0,C,C,C,Bachelors,No
+M,reputation,1,4,0,yes,yes,0,3,3,0,B,B,B,Masters,no
+F,course,1,4,0,no,yes,2,3,3,0,C,C,C,Bachelors,no
 F,reputation,2,2,0,no,yes,2,1,3,0,B,C,B,12th Pass,yes
 F,reputation,2,4,0,no,yes,2,4,2,6,A,A,A,Bachelors,yes
 M,reputation,2,4,0,no,yes,2,3,2,2,B+,B,B,Bachelors,yes
-M,course,1,4,0,no,yes,2,3,3,0,B,C,C,Masters,No
-F,reputation,1,2,0,no,yes,2,3,4,2,B+,B,B,10th Pass,No
+M,course,1,4,0,no,yes,2,3,3,0,B,C,C,Masters,no
+F,reputation,1,2,0,no,yes,2,3,4,2,B+,B,B,10th Pass,no
 M,reputation,1,1,0,yes,yes,3,3,2,0,B+,B+,B+,Bachelors,yes
 F,home,1,2,0,yes,yes,2,3,3,4,B,B,B,Bachelors,yes
 M,home,1,2,0,yes,yes,2,3,3,0,B,B,B,Masters,yes
@@ -80,52 +80,52 @@ F,reputation,1,4,0,no,yes,3,2,3,1,B+,B+,B+,12th Pass,yes
 M,home,2,1,3,yes,no,2,5,1,0,C,C,C,12th Pass,yes
 F,course,1,2,0,no,yes,1,4,3,14,B,B,B,Masters,yes
 M,course,1,1,0,yes,yes,2,2,2,0,B,B,B,Bachelors,yes
-M,home,1,3,0,no,yes,3,3,2,2,C,C,C,Bachelors,No
+M,home,1,3,0,no,yes,3,3,2,2,C,C,C,Bachelors,no
 F,reputation,1,2,0,no,yes,2,4,4,4,B,B,B,Bachelors,yes
-M,home,2,2,0,yes,yes,3,3,3,2,B+,B,B+,12th Pass,No
-F,home,1,2,0,yes,yes,2,3,2,2,B+,B,B,10th Pass,No
+M,home,2,2,0,yes,yes,3,3,3,2,B+,B,B+,12th Pass,no
+F,home,1,2,0,yes,yes,2,3,2,2,B+,B,B,10th Pass,no
 F,reputation,2,2,0,no,yes,2,4,4,4,B,B,B,Masters,yes
 F,course,1,2,0,no,yes,2,3,4,6,B+,B,B,12th Pass,yes
 F,reputation,1,3,0,yes,yes,3,3,3,4,A,A,A,Masters,yes
-M,reputation,2,2,0,yes,yes,2,4,2,6,B,C,B,12th Pass,No
+M,reputation,2,2,0,yes,yes,2,4,2,6,B,C,B,12th Pass,no
 M,reputation,1,2,0,no,yes,2,1,3,6,C,C,C,Masters,yes
 F,home,1,3,0,no,yes,2,3,3,2,C,B,B,Bachelors,yes
-F,reputation,1,1,0,yes,yes,2,5,5,6,B+,B+,B+,Masters,No
-F,home,1,2,0,no,yes,2,3,3,0,B,B+,B,Bachelors,No
-F,home,2,2,0,yes,yes,3,3,3,2,B+,B+,B+,Masters,No
+F,reputation,1,1,0,yes,yes,2,5,5,6,B+,B+,B+,Masters,no
+F,home,1,2,0,no,yes,2,3,3,0,B,B+,B,Bachelors,no
+F,home,2,2,0,yes,yes,3,3,3,2,B+,B+,B+,Masters,no
 M,reputation,1,4,0,yes,yes,2,3,4,2,B,B,B,12th Pass,yes
-F,home,2,4,0,yes,yes,2,1,2,4,B+,B+,B+,10th Pass,No
+F,home,2,4,0,yes,yes,2,1,2,4,B+,B+,B+,10th Pass,no
 M,reputation,2,1,0,yes,yes,2,3,3,6,C,B,B,Masters,yes
 F,course,1,2,0,no,yes,2,3,5,0,B+,B,B,12th Pass,yes
-F,reputation,1,1,0,yes,yes,3,3,4,4,B,B+,B+,Masters,No
+F,reputation,1,1,0,yes,yes,3,3,4,4,B,B+,B+,Masters,no
 F,course,1,3,0,no,yes,3,3,5,2,B,B+,B+,Masters,yes
 M,other,1,1,0,yes,yes,2,5,5,12,C,C,D,Masters,yes
 M,other,1,3,0,yes,yes,2,4,3,0,A,A,A,Masters,yes
-M,course,1,1,0,yes,yes,3,3,3,2,B,B+,B,Masters,No
+M,course,1,1,0,yes,yes,3,3,3,2,B,B+,B,Masters,no
 F,home,2,2,0,no,yes,2,3,5,16,B,C,C,Bachelors,yes
-M,course,1,2,0,yes,yes,3,4,4,0,A,A,A,Masters,No
+M,course,1,2,0,yes,yes,3,4,4,0,A,A,A,Masters,no
 F,reputation,1,4,0,no,yes,2,3,3,10,C,C,C,Bachelors,yes
 F,course,1,4,0,no,yes,3,1,2,4,C,C,C,12th Pass,yes
 M,home,1,3,0,yes,yes,3,3,3,4,B+,B+,B+,Bachelors,yes
-M,home,4,4,0,yes,yes,0,3,5,8,B,C,B,Masters,No
+M,home,4,4,0,yes,yes,0,3,5,8,B,C,B,Masters,no
 F,other,1,3,0,yes,yes,3,4,5,2,A,A,B+,Masters,yes
 M,course,1,1,0,yes,yes,3,5,3,4,B+,B+,B+,Masters,yes
-F,reputation,1,3,0,yes,yes,2,1,2,4,B,B,B,Bachelors,No
+F,reputation,1,3,0,yes,yes,2,1,2,4,B,B,B,Bachelors,no
 F,home,1,2,1,yes,yes,2,1,2,12,D,C,C,12th Pass,yes
-M,course,1,1,0,no,yes,2,5,2,10,A+,A+,A+,Masters,No
+M,course,1,1,0,no,yes,2,5,2,10,A+,A+,A+,Masters,no
 M,reputation,1,2,0,yes,yes,3,4,2,4,C,C,C,12th Pass,yes
 M,course,1,2,0,yes,yes,3,4,4,6,A,B+,B+,Masters,yes
 M,reputation,2,2,0,yes,yes,2,4,3,4,A,A,A,Masters,yes
 M,home,2,1,0,yes,yes,3,4,2,6,B+,B+,A,Bachelors,yes
 M,course,3,2,1,yes,yes,3,2,4,14,B,B,B,Bachelors,yes
-M,reputation,1,1,0,no,yes,2,4,3,2,B+,B+,B+,Masters,No
+M,reputation,1,1,0,no,yes,2,4,3,2,B+,B+,B+,Masters,no
 F,course,1,2,0,no,yes,2,2,3,0,B+,B+,B+,12th Pass,yes
-M,home,1,4,0,yes,yes,3,5,4,6,B+,B+,B+,12th Pass,No
-F,course,2,2,0,yes,yes,2,2,2,2,B+,B,B+,Masters,No
+M,home,1,4,0,yes,yes,3,5,4,6,B+,B+,B+,12th Pass,no
+F,course,2,2,0,yes,yes,2,2,2,2,B+,B,B+,Masters,no
 M,course,1,1,0,yes,yes,2,4,4,4,B,B+,B+,Masters,yes
 F,home,1,2,0,no,yes,3,4,4,0,B,B,B,12th Pass,yes
-M,home,1,1,0,no,yes,3,5,5,2,C,C,C,Masters,No
-F,home,1,2,0,yes,yes,3,3,2,0,C,B,B,Masters,No
+M,home,1,1,0,no,yes,3,5,5,2,C,C,C,Masters,no
+F,home,1,2,0,yes,yes,3,3,2,0,C,B,B,Masters,no
 F,course,1,2,2,no,no,2,4,2,0,C,C,B,10th Pass,yes
 M,course,1,1,0,yes,yes,2,5,5,8,B+,B+,A,Masters,yes
 M,course,2,3,0,no,yes,2,2,3,4,B+,B,B+,Bachelors,yes
@@ -133,16 +133,16 @@ F,course,2,3,0,no,yes,2,2,2,0,C,B,B,Masters,yes
 F,reputation,1,2,3,yes,no,3,4,5,10,C,C,D,12th Pass,yes
 F,course,3,1,0,no,yes,2,2,2,8,B,C,B,12th Pass,yes
 F,course,3,1,0,yes,yes,2,3,3,6,B,B,B+,10th Pass,yes
-F,course,1,1,0,no,yes,2,4,4,2,B+,B,B,12th Pass,No
+F,course,1,1,0,no,yes,2,4,4,2,B+,B,B,12th Pass,no
 F,course,1,1,0,no,yes,2,2,1,12,A,B+,B+,Masters,yes
 M,course,4,1,0,no,yes,2,2,1,4,C,C,B,12th Pass,yes
 F,home,1,1,1,no,yes,3,3,4,12,B+,B,B,12th Pass,yes
 M,course,4,2,0,no,yes,3,3,3,2,B,B,B,Masters,yes
 F,course,1,3,0,yes,yes,2,3,3,4,B+,B+,A,Masters,yes
-M,course,3,2,0,no,yes,3,4,5,2,C,C,C,Masters,No
-F,course,4,2,0,no,yes,3,1,3,0,B+,B+,B+,10th Pass,No
+M,course,3,2,0,no,yes,3,4,5,2,C,C,C,Masters,no
+F,course,4,2,0,no,yes,3,1,3,0,B+,B+,B+,10th Pass,no
 M,course,2,1,0,yes,yes,2,3,4,2,B,B,B,Bachelors,yes
-F,course,1,3,0,yes,yes,2,3,3,10,B,B,B,Bachelors,No
+F,course,1,3,0,yes,yes,2,3,3,10,B,B,B,Bachelors,no
 F,reputation,2,1,0,yes,yes,2,3,3,8,B,B,B,10th Pass,yes
 F,course,2,1,0,yes,yes,2,3,2,4,C,C,C,Bachelors,yes
 M,course,1,2,2,no,yes,2,4,4,0,C,C,C,10th Pass,yes
@@ -154,18 +154,18 @@ M,course,1,3,0,yes,yes,3,3,3,0,A,B+,B+,Masters,yes
 M,reputation,2,1,0,yes,yes,1,3,3,4,B,B,B,12th Pass,yes
 F,course,1,3,0,yes,yes,2,2,2,2,B+,B+,B+,Masters,yes
 F,course,1,1,0,no,yes,2,4,4,4,C,B,B,10th Pass,yes
-M,home,1,1,0,no,yes,3,4,5,22,C,D,F,12th Pass,No
+M,home,1,1,0,no,yes,3,4,5,22,C,D,F,12th Pass,no
 F,course,1,2,0,no,yes,2,4,2,0,B,B,B,10th Pass,yes
 F,home,2,1,0,yes,no,2,4,2,0,B,C,C,12th Pass,yes
-F,home,1,2,1,no,yes,2,3,2,2,B,B,B,Bachelors,No
-F,course,1,2,0,no,yes,2,3,2,6,B+,B,B+,12th Pass,No
-F,course,1,2,0,no,yes,1,3,4,6,B,B,B,12th Pass,No
+F,home,1,2,1,no,yes,2,3,2,2,B,B,B,Bachelors,no
+F,course,1,2,0,no,yes,2,3,2,6,B+,B,B+,12th Pass,no
+F,course,1,2,0,no,yes,1,3,4,6,B,B,B,12th Pass,no
 M,course,1,1,0,no,no,2,3,2,16,C,C,D,Masters,yes
 M,course,4,1,0,no,yes,2,5,5,0,B,B,B,12th Pass,yes
 M,course,1,1,2,no,no,1,3,5,0,B,C,F,10th Pass,yes
 M,course,1,1,1,yes,yes,2,4,4,6,C,C,C,12th Pass,yes
-F,reputation,2,3,0,yes,yes,2,2,1,2,B+,B+,B+,Bachelors,No
-M,home,1,1,0,no,no,2,5,4,6,B,C,B,Bachelors,No
+F,reputation,2,3,0,yes,yes,2,2,1,2,B+,B+,B+,Bachelors,no
+M,home,1,1,0,no,no,2,5,4,6,B,C,B,Bachelors,no
 F,course,1,1,0,no,yes,2,2,1,0,B+,B+,B+,Masters,yes
 M,course,1,2,0,yes,yes,2,4,4,0,D,D,D,Bachelors,yes
 M,reputation,1,1,3,no,yes,1,2,2,14,C,D,C,12th Pass,yes
@@ -174,7 +174,7 @@ M,course,3,1,0,no,yes,2,2,2,4,B,C,B,12th Pass,yes
 M,course,1,2,1,no,yes,2,5,5,0,C,C,F,Bachelors,yes
 M,course,2,1,2,no,yes,2,4,5,0,C,D,C,12th Pass,yes
 M,course,2,1,1,yes,no,2,3,2,8,D,D,C,12th Pass,yes
-M,course,2,2,2,no,yes,2,4,4,4,D,F,D,Bachelors,No
+M,course,2,2,2,no,yes,2,4,4,4,D,F,D,Bachelors,no
 M,course,2,1,0,yes,yes,2,4,4,2,D,C,C,12th Pass,yes
 M,course,1,1,1,no,no,3,3,3,2,C,D,D,Bachelors,yes
 M,course,4,2,0,yes,no,3,3,5,0,D,D,D,10th Pass,yes
@@ -185,8 +185,8 @@ F,home,1,2,0,no,yes,3,1,5,0,B,B,B+,12th Pass,yes
 F,reputation,1,2,0,no,yes,2,4,2,0,A,A,A+,Masters,yes
 M,course,3,1,1,yes,yes,2,4,5,4,C,C,C,Masters,yes
 M,reputation,2,2,0,yes,yes,2,3,2,0,A,A+,A+,10th Pass,yes
-M,reputation,1,2,0,yes,yes,2,4,4,0,B,C,C,Masters,No
-F,home,1,2,0,yes,yes,2,3,5,0,B+,B+,B+,Bachelors,No
+M,reputation,1,2,0,yes,yes,2,4,4,0,B,C,C,Masters,no
+F,home,1,2,0,yes,yes,2,3,5,0,B+,B+,B+,Bachelors,no
 F,reputation,2,2,0,yes,yes,2,4,5,0,B+,B+,A,Bachelors,yes
 M,course,2,2,0,yes,yes,2,4,4,0,C,B,B,Masters,yes
 F,reputation,2,2,0,yes,yes,2,4,4,0,B+,B,B+,12th Pass,yes
@@ -196,29 +196,29 @@ M,course,1,2,0,yes,yes,3,2,3,4,B,B,B+,Masters,yes
 M,home,1,2,0,yes,yes,2,4,3,4,B,C,B,Masters,yes
 M,home,1,2,0,yes,yes,2,2,3,0,B,B,B+,Bachelors,yes
 F,reputation,1,2,0,yes,yes,3,4,2,0,A+,A+,A+,Masters,yes
-F,reputation,1,2,0,yes,yes,3,3,3,32,B+,B+,B+,Bachelors,No
-F,reputation,1,2,0,no,yes,0,2,2,8,B+,A,A,Bachelors,No
+F,reputation,1,2,0,yes,yes,3,3,3,32,B+,B+,B+,Bachelors,no
+F,reputation,1,2,0,no,yes,0,2,2,8,B+,A,A,Bachelors,no
 M,other,1,2,0,yes,yes,2,3,4,6,B,B+,B+,Bachelors,yes
-M,other,1,1,0,yes,yes,2,3,3,0,C,C,B,12th Pass,No
+M,other,1,1,0,yes,yes,2,3,3,0,C,C,B,12th Pass,no
 M,course,1,2,0,yes,yes,2,2,3,0,B+,B+,A,12th Pass,yes
 F,reputation,1,2,0,no,yes,2,3,3,10,B,B+,B+,Bachelors,yes
 M,home,1,2,0,no,yes,2,1,3,6,C,C,C,12th Pass,yes
-F,course,1,2,0,no,yes,2,3,3,6,B,B,B+,Bachelors,No
+F,course,1,2,0,no,yes,2,3,3,6,B,B,B+,Bachelors,no
 F,course,1,2,0,yes,yes,3,3,3,0,B,B,B,10th Pass,yes
 M,other,2,2,0,yes,yes,2,4,4,16,C,B,B,12th Pass,yes
 M,reputation,1,1,0,yes,yes,2,3,2,0,B,C,C,Bachelors,yes
 M,home,2,1,0,no,yes,3,3,3,0,B+,B,B,Bachelors,yes
-F,course,1,2,0,yes,yes,2,3,2,8,B+,A,A,Masters,No
+F,course,1,2,0,yes,yes,2,3,2,8,B+,A,A,Masters,no
 M,home,1,1,0,no,yes,3,2,3,4,B+,B+,B+,Masters,yes
 M,home,3,1,0,yes,yes,2,3,4,16,C,B,B,Bachelors,yes
 F,home,2,1,1,no,yes,2,2,4,30,B+,A,A,Masters,yes
-F,reputation,1,2,0,no,yes,2,5,2,0,B,C,B,Masters,No
+F,reputation,1,2,0,no,yes,2,5,2,0,B,C,B,Masters,no
 F,home,1,2,0,yes,yes,2,3,5,2,B+,B+,A,Masters,yes
 F,reputation,1,2,0,yes,yes,2,4,3,4,B,B,B,Bachelors,yes
 F,course,1,2,0,no,yes,2,4,4,0,B+,A,A,10th Pass,yes
 F,reputation,1,1,0,no,yes,3,3,2,21,B+,B+,B+,12th Pass,yes
 F,reputation,2,4,0,yes,yes,3,3,5,6,B+,B+,B+,12th Pass,yes
-F,home,1,3,1,no,yes,2,4,3,14,D,C,D,Masters,No
+F,home,1,3,1,no,yes,2,4,3,14,D,C,D,Masters,no
 F,course,1,2,0,no,yes,1,3,3,2,B,B,B,Bachelors,yes
 F,other,1,2,0,yes,yes,0,3,2,4,B+,A,A,Masters,yes
 F,home,2,1,0,no,yes,2,3,2,2,B,B+,B+,10th Pass,yes
@@ -227,13 +227,13 @@ F,reputation,1,4,0,yes,yes,2,3,3,4,B,B,B,Bachelors,yes
 M,home,1,2,0,no,yes,3,3,5,15,B+,B,B,Masters,yes
 F,reputation,1,2,0,no,yes,2,3,4,0,B+,B+,B+,12th Pass,yes
 M,home,1,2,0,yes,yes,2,4,4,10,B,B,B,12th Pass,yes
-F,other,1,1,0,no,yes,3,2,1,6,B,B,B,Masters,No
-F,reputation,2,2,0,no,yes,2,4,4,2,B+,A,A,Bachelors,No
+F,other,1,1,0,no,yes,3,2,1,6,B,B,B,Masters,no
+F,reputation,2,2,0,no,yes,2,4,4,2,B+,A,A,Bachelors,no
 F,reputation,1,2,0,no,yes,2,4,5,16,B,C,C,Masters,yes
 M,home,1,2,0,no,yes,2,2,4,10,C,C,C,Bachelors,yes
-F,home,2,1,0,no,yes,2,3,3,4,B,B+,B+,Bachelors,No
+F,home,2,1,0,no,yes,2,3,3,4,B,B+,B+,Bachelors,no
 F,course,1,3,0,yes,yes,2,3,3,0,B,B,B+,12th Pass,yes
-F,reputation,2,2,0,yes,yes,2,2,5,0,B,C,B,12th Pass,No
+F,reputation,2,2,0,yes,yes,2,2,5,0,B,C,B,12th Pass,no
 F,reputation,1,3,0,yes,yes,2,3,4,12,B,B,B,10th Pass,yes
 F,other,1,2,0,no,yes,1,3,1,0,B+,B+,B+,Bachelors,yes
 M,home,2,2,3,no,yes,2,3,3,9,C,C,C,12th Pass,yes
@@ -243,8 +243,8 @@ F,course,1,2,0,yes,yes,3,3,4,2,A+,A+,A+,Bachelors,yes
 M,reputation,1,2,0,no,yes,3,3,3,0,C,B,B,Bachelors,yes
 M,course,4,2,0,yes,yes,2,3,2,2,C,C,B,12th Pass,yes
 F,course,2,3,0,yes,yes,2,2,3,0,A,A,A,12th Pass,yes
-F,reputation,1,2,0,yes,yes,2,2,3,0,B+,B,B,Masters,No
-M,course,2,2,0,yes,yes,2,5,2,0,B,B+,B+,12th Pass,No
+F,reputation,1,2,0,yes,yes,2,2,3,0,B+,B,B,Masters,no
+M,course,2,2,0,yes,yes,2,5,2,0,B,B+,B+,12th Pass,no
 M,reputation,1,2,0,yes,yes,2,5,5,0,B+,B+,B+,Masters,yes
 M,reputation,1,2,0,yes,yes,2,2,4,0,B+,B+,B+,Masters,yes
 M,home,2,2,0,no,yes,2,4,2,2,C,C,C,10th Pass,yes
@@ -253,7 +253,7 @@ M,home,1,2,0,yes,yes,2,4,2,0,A,A,A,12th Pass,yes
 F,home,1,1,0,no,yes,2,5,2,4,C,C,C,12th Pass,yes
 F,home,1,2,0,yes,yes,3,3,3,0,B+,B+,B+,Masters,yes
 F,course,2,2,1,no,yes,2,3,3,18,C,C,C,Masters,yes
-F,course,1,2,1,no,yes,3,3,1,16,C,D,C,12th Pass,No
+F,course,1,2,1,no,yes,3,3,1,16,C,D,C,12th Pass,no
 F,course,2,1,1,no,no,2,1,1,14,D,D,D,Bachelors,yes
 M,course,1,1,1,yes,no,2,4,3,26,D,D,D,12th Pass,yes
 M,course,1,1,0,yes,yes,2,2,1,6,C,D,C,Masters,yes
@@ -263,48 +263,48 @@ F,course,1,1,0,no,no,3,3,5,4,B,B,B,12th Pass,yes
 F,course,3,2,0,yes,yes,1,1,1,2,B+,B+,B+,12th Pass,yes
 F,course,4,1,1,no,yes,3,5,4,14,C,C,D,Masters,yes
 M,reputation,1,2,0,no,no,3,5,4,16,D,D,D,12th Pass,yes
-F,home,1,1,1,no,no,2,1,2,8,B,C,C,12th Pass,No
-F,course,2,3,0,yes,yes,2,3,3,4,A,B+,A,10th Pass,No
+F,home,1,1,1,no,no,2,1,2,8,B,C,C,12th Pass,no
+F,course,2,3,0,yes,yes,2,3,3,4,A,B+,A,10th Pass,no
 F,course,1,2,0,yes,yes,2,3,2,4,A,B+,B+,Masters,yes
 M,course,2,2,0,yes,yes,1,5,5,8,A,A,A,Masters,yes
 M,course,2,2,0,no,yes,2,3,3,0,B,B,B,Masters,yes
-M,course,1,1,0,yes,yes,3,4,5,7,B+,B+,A,Masters,No
+M,course,1,1,0,yes,yes,3,4,5,7,B+,B+,A,Masters,no
 M,course,1,1,0,yes,yes,3,3,2,4,B+,A,A,Masters,yes
 F,course,1,2,0,no,yes,3,3,1,2,B,B,B,Masters,yes
-M,home,2,3,0,no,yes,2,3,3,2,B+,B+,A,10th Pass,No
+M,home,2,3,0,no,yes,2,3,3,2,B+,B+,A,10th Pass,no
 F,home,2,3,0,no,yes,2,2,2,10,B,B,B,Bachelors,yes
-F,course,1,2,0,no,yes,2,3,2,10,C,C,C,10th Pass,No
+F,course,1,2,0,no,yes,2,3,2,10,C,C,C,10th Pass,no
 F,course,2,3,0,no,yes,2,4,4,10,B,C,B,12th Pass,yes
 M,course,3,1,0,no,yes,2,3,3,7,A,A,A,12th Pass,yes
 F,course,1,2,0,no,yes,2,3,4,4,B,C,B,10th Pass,yes
 M,course,2,1,0,no,yes,3,2,2,2,C,B,B+,Bachelors,yes
 M,other,1,1,3,no,no,3,4,5,12,D,D,F,Bachelors,yes
-M,course,1,2,0,no,yes,2,3,3,8,C,C,C,Bachelors,No
+M,course,1,2,0,no,yes,2,3,3,8,C,C,C,Bachelors,no
 M,other,1,1,0,no,yes,2,3,2,0,B,B,B,12th Pass,yes
-M,course,2,1,0,no,no,2,4,5,8,D,D,D,Bachelors,No
+M,course,2,1,0,no,no,2,4,5,8,D,D,D,Bachelors,no
 M,reputation,3,2,1,no,yes,3,3,3,4,C,B,C,Bachelors,yes
-M,other,1,1,2,no,no,2,2,5,4,D,D,F,12th Pass,No
+M,other,1,1,2,no,no,2,2,5,4,D,D,F,12th Pass,no
 M,course,2,1,0,yes,yes,2,3,2,2,B+,B+,B,12th Pass,yes
 M,course,1,1,0,no,yes,2,4,2,0,B,B,B+,12th Pass,yes
-M,course,2,1,1,yes,yes,2,4,4,0,C,C,C,10th Pass,No
+M,course,2,1,1,yes,yes,2,4,4,0,C,C,C,10th Pass,no
 F,course,1,2,0,no,yes,2,3,4,2,B,B,B+,12th Pass,yes
-F,reputation,1,4,0,yes,yes,2,2,3,2,B+,A,A+,Masters,No
+F,reputation,1,4,0,yes,yes,2,2,3,2,B+,A,A+,Masters,no
 F,home,1,2,0,no,yes,2,3,3,0,C,C,B,12th Pass,yes
 M,course,3,2,1,yes,no,2,4,5,4,B,C,B,12th Pass,yes
 F,course,1,3,0,yes,yes,2,3,4,2,B,B,B+,Masters,yes
 F,home,1,3,0,no,yes,2,4,3,4,B,B,B+,10th Pass,yes
-F,home,1,2,0,no,yes,2,2,3,4,B,B,B+,12th Pass,No
+F,home,1,2,0,no,yes,2,2,3,4,B,B,B+,12th Pass,no
 M,reputation,1,2,0,no,yes,2,3,1,4,B,B+,B+,Masters,yes
 M,home,1,2,0,yes,yes,3,2,4,2,A,A,A,12th Pass,yes
 M,other,2,1,0,no,no,3,2,2,0,C,C,C,12th Pass,yes
-F,course,1,4,0,yes,yes,2,4,1,2,C,B,B,12th Pass,No
+F,course,1,4,0,yes,yes,2,4,1,2,C,B,B,12th Pass,no
 F,course,2,2,0,yes,no,0,2,3,8,C,B,B,12th Pass,yes
-F,home,1,2,0,no,yes,2,1,2,2,A,A,A,Masters,No
+F,home,1,2,0,no,yes,2,1,2,2,A,A,A,Masters,no
 M,course,1,2,0,no,yes,2,3,2,2,C,C,B,Masters,yes
-M,course,1,3,0,yes,yes,3,3,2,2,C,B,B,Bachelors,No
+M,course,1,3,0,yes,yes,3,3,2,2,C,B,B,Bachelors,no
 F,home,1,3,0,yes,yes,2,2,3,2,A,B,B+,Bachelors,yes
-F,home,1,3,0,yes,yes,2,3,3,0,B,B,B+,12th Pass,No
-M,home,2,1,0,no,no,2,4,4,8,D,D,C,12th Pass,No
+F,home,1,3,0,yes,yes,2,3,3,0,B,B,B+,12th Pass,no
+M,home,2,1,0,no,no,2,4,4,8,D,D,C,12th Pass,no
 M,reputation,2,2,0,yes,yes,2,2,5,6,A,A,A,Masters,yes
 M,other,1,2,0,yes,yes,3,4,4,0,B,B,B+,Bachelors,yes
 F,reputation,2,2,0,yes,yes,2,3,4,8,C,B,B,Masters,yes
@@ -314,46 +314,46 @@ F,home,1,2,0,yes,yes,2,3,5,16,B,B,B,Bachelors,yes
 F,reputation,1,4,0,yes,yes,2,5,5,10,A,A,A,Bachelors,yes
 F,home,2,2,0,no,yes,2,4,3,2,B+,B+,B+,10th Pass,yes
 M,home,1,2,0,yes,yes,2,5,2,2,A,A+,A+,12th Pass,yes
-F,home,1,2,0,no,yes,2,2,5,8,B+,B+,A,12th Pass,No
+F,home,1,2,0,no,yes,2,2,5,8,B+,B+,A,12th Pass,no
 F,reputation,2,2,0,no,yes,2,3,3,6,A,A,A,Masters,yes
 F,course,2,2,0,no,yes,2,4,4,6,B,B,B,12th Pass,yes
 F,home,2,2,0,no,no,2,1,1,15,B,C,C,Bachelors,yes
 M,home,2,1,0,yes,yes,2,2,4,6,B,B,B,Masters,yes
-F,reputation,1,2,1,yes,yes,1,4,4,2,B+,B,B+,Masters,No
+F,reputation,1,2,1,yes,yes,1,4,4,2,B+,B,B+,Masters,no
 F,reputation,3,3,0,no,yes,2,2,3,8,B+,A,A,12th Pass,yes
 F,reputation,1,2,1,no,no,2,3,3,0,C,D,C,Bachelors,yes
-M,course,2,1,0,yes,yes,2,2,3,0,C,C,C,Masters,No
+M,course,2,1,0,yes,yes,2,2,3,0,C,C,C,Masters,no
 M,home,2,1,0,no,no,2,4,4,10,C,C,B,12th Pass,yes
 M,home,2,1,0,yes,yes,2,5,4,22,B,B,C,Masters,yes
 M,home,1,1,0,no,yes,2,4,4,18,B+,B+,B+,Bachelors,yes
 F,reputation,2,4,0,yes,yes,3,2,2,2,A+,A+,A+,10th Pass,yes
 F,home,2,2,0,yes,yes,3,4,4,0,B,B+,B+,10th Pass,yes
 F,course,1,2,0,no,yes,3,4,5,12,B,B,B+,12th Pass,yes
-F,reputation,2,2,0,yes,yes,2,3,1,10,B,B+,B+,12th Pass,No
-M,reputation,1,2,0,no,yes,2,3,3,0,B,B,B,10th Pass,No
+F,reputation,2,2,0,yes,yes,2,3,1,10,B,B+,B+,12th Pass,no
+M,reputation,1,2,0,no,yes,2,3,3,0,B,B,B,10th Pass,no
 F,other,1,3,0,no,yes,2,3,3,0,A+,A+,A+,12th Pass,yes
 F,reputation,1,3,0,no,yes,2,3,3,0,B+,B+,B+,10th Pass,yes
-M,reputation,1,3,0,yes,yes,2,2,4,0,B+,A,A,12th Pass,No
+M,reputation,1,3,0,yes,yes,2,2,4,0,B+,A,A,12th Pass,no
 M,reputation,1,2,0,yes,yes,3,4,3,0,A+,A+,A+,Masters,yes
 M,home,1,2,0,yes,yes,2,3,2,2,A,A,A,Masters,yes
 F,reputation,1,3,0,no,yes,2,2,2,0,A+,A+,A+,Masters,yes
 F,reputation,2,4,0,no,yes,2,1,2,0,A+,O,O,Bachelors,yes
 M,reputation,2,3,0,yes,yes,3,4,2,0,B+,A,A,Bachelors,yes
-M,home,1,1,0,no,yes,2,4,3,0,B+,A,A,Bachelors,No
-F,reputation,2,2,0,yes,yes,1,3,4,2,B+,B+,B+,Masters,No
-F,home,2,2,0,no,yes,2,4,5,0,B+,B+,B+,Masters,No
-F,reputation,1,4,0,no,yes,2,3,3,0,A,A+,A+,Masters,No
+M,home,1,1,0,no,yes,2,4,3,0,B+,A,A,Bachelors,no
+F,reputation,2,2,0,yes,yes,1,3,4,2,B+,B+,B+,Masters,no
+F,home,2,2,0,no,yes,2,4,5,0,B+,B+,B+,Masters,no
+F,reputation,1,4,0,no,yes,2,3,3,0,A,A+,A+,Masters,no
 M,home,1,1,0,no,yes,0,4,2,0,A+,A+,A+,Masters,yes
-F,home,1,2,0,no,yes,2,2,4,0,B+,A,A,Masters,No
+F,home,1,2,0,no,yes,2,2,4,0,B+,A,A,Masters,no
 M,home,2,1,0,no,yes,2,1,1,0,B,B+,B+,Masters,yes
 F,reputation,2,3,0,yes,yes,3,3,4,0,D,D,D,Masters,yes
 F,reputation,2,3,0,no,yes,2,3,3,0,A,A,A,Masters,yes
 F,reputation,1,4,0,yes,yes,3,2,2,0,A+,A+,A+,Bachelors,yes
-M,course,2,3,1,yes,yes,2,3,1,0,C,C,B,12th Pass,No
+M,course,2,3,1,yes,yes,2,3,1,0,C,C,B,12th Pass,no
 M,course,1,1,2,yes,yes,3,5,3,0,B+,A,A,Bachelors,yes
 M,reputation,1,2,0,yes,yes,2,5,3,0,C,C,B,Bachelors,yes
 F,home,1,2,0,no,yes,2,4,4,2,C,C,B,Masters,yes
-F,course,2,2,0,yes,yes,3,3,3,2,B,B,A,12th Pass,No
+F,course,2,2,0,yes,yes,3,3,3,2,B,B,A,12th Pass,no
 F,course,2,2,0,yes,yes,2,2,1,2,B,B,B+,Bachelors,yes
 F,course,1,1,0,yes,yes,2,4,4,2,A,A,A+,Masters,yes
 F,course,1,3,0,yes,yes,2,3,4,2,B+,A,A+,Masters,yes
@@ -361,13 +361,13 @@ F,course,2,1,0,no,yes,2,2,4,8,B,B,A,Masters,yes
 F,course,1,3,0,yes,yes,2,3,4,2,A,A,A+,Masters,yes
 F,course,1,2,0,no,yes,2,1,4,8,B,B,B+,Bachelors,yes
 M,course,2,2,0,yes,yes,3,4,4,9,B,C,C,Masters,yes
-F,course,1,2,0,no,yes,2,4,4,0,B,B,B+,Masters,No
+F,course,1,2,0,no,yes,2,4,4,0,B,B,B+,Masters,no
 F,course,1,1,0,yes,yes,3,4,4,4,B,B,B+,Masters,yes
-F,course,1,1,0,yes,yes,3,3,4,2,B+,A,A+,Masters,No
-F,course,1,2,0,no,yes,3,2,2,14,A,B+,A+,Masters,No
+F,course,1,1,0,yes,yes,3,3,4,2,B+,A,A+,Masters,no
+F,course,1,2,0,no,yes,3,2,2,14,A,B+,A+,Masters,no
 F,home,1,2,0,no,yes,3,3,3,0,B,B,B+,Bachelors,yes
 F,home,1,2,0,yes,yes,2,2,3,2,B,B,B+,12th Pass,yes
-M,reputation,1,1,0,no,yes,2,2,5,2,D,C,B,Masters,No
+M,reputation,1,1,0,no,yes,2,2,5,2,D,C,B,Masters,no
 F,course,3,3,0,yes,no,0,5,5,12,C,C,B,10th Pass,yes
 F,course,3,2,2,no,yes,3,3,4,2,D,D,C,10th Pass,yes
 F,course,1,1,0,yes,yes,2,3,5,2,C,C,C,12th Pass,yes
@@ -376,11 +376,11 @@ F,course,1,3,0,yes,yes,2,3,2,0,B,B,C,12th Pass,yes
 F,course,1,3,0,no,yes,2,4,3,0,A+,A+,A+,Bachelors,yes
 F,home,2,3,0,no,yes,2,3,3,0,B+,B+,A,12th Pass,yes
 F,home,2,3,0,yes,yes,2,5,5,0,B+,B+,B+,10th Pass,yes
-M,course,1,3,0,yes,yes,2,3,3,0,B+,B+,B+,Masters,No
+M,course,1,3,0,yes,yes,2,3,3,0,B+,B+,B+,Masters,no
 M,reputation,1,1,0,yes,yes,2,3,5,0,A+,A+,A+,Bachelors,yes
 M,course,4,1,0,no,yes,2,4,5,2,B,C,C,12th Pass,yes
 F,course,1,3,0,yes,yes,3,4,4,0,B+,B,B+,Masters,yes
-F,course,2,3,0,no,yes,2,3,3,4,A,B+,A,Masters,No
+F,course,2,3,0,no,yes,2,3,3,4,A,B+,A,Masters,no
 F,course,1,1,0,yes,yes,2,2,5,2,B,B,B,Bachelors,yes
 M,course,1,4,0,yes,yes,2,5,5,0,B,B,B,12th Pass,yes
 M,home,1,1,0,no,yes,3,3,4,0,B,C,C,Bachelors,yes
@@ -390,64 +390,64 @@ M,reputation,1,1,0,no,yes,3,4,2,6,A,B+,A,12th Pass,yes
 F,home,1,2,0,yes,yes,3,3,4,8,C,B,B,Bachelors,yes
 F,home,1,2,0,yes,yes,2,3,3,0,C,C,B,12th Pass,yes
 F,course,2,4,0,yes,yes,2,4,4,6,B+,B+,B+,12th Pass,yes
-F,course,1,3,0,no,yes,2,4,5,8,B,B+,B+,Masters,No
+F,course,1,3,0,no,yes,2,4,5,8,B,B+,B+,Masters,no
 F,home,1,2,0,no,yes,2,3,2,0,B,B+,A,Bachelors,yes
 F,home,1,4,0,no,yes,3,3,3,4,B+,B+,A,Bachelors,yes
 F,home,1,2,0,no,yes,2,3,3,0,B+,B+,A,Bachelors,yes
 M,home,1,2,0,yes,yes,2,3,3,0,B,B,B+,Masters,yes
-M,home,1,2,0,yes,yes,2,3,3,6,A,A,A+,Masters,No
+M,home,1,2,0,yes,yes,2,3,3,6,A,A,A+,Masters,no
 F,home,1,2,0,no,yes,2,3,1,18,C,B,B+,12th Pass,yes
 F,course,1,3,0,no,yes,2,3,3,0,B,B,B+,Bachelors,yes
-F,other,1,3,0,no,yes,3,4,3,4,B+,A,A+,Bachelors,No
+F,other,1,3,0,no,yes,3,4,3,4,B+,A,A+,Bachelors,no
 M,course,1,3,0,no,yes,3,3,2,4,A,B+,A+,Masters,yes
 M,course,1,3,0,no,yes,3,4,5,0,B+,B+,B+,Masters,yes
-F,reputation,1,3,0,yes,yes,2,4,3,0,B,B,B+,Masters,No
-F,course,2,2,0,yes,yes,2,3,4,10,B,A,A,12th Pass,No
+F,reputation,1,3,0,yes,yes,2,4,3,0,B,B,B+,Masters,no
+F,course,2,2,0,yes,yes,2,3,4,10,B,A,A,12th Pass,no
 F,reputation,1,2,0,yes,yes,2,3,5,4,B,A,A,12th Pass,yes
-F,home,2,1,1,no,no,1,2,3,16,C,B,B,Bachelors,No
+F,home,2,1,1,no,no,1,2,3,16,C,B,B,Bachelors,no
 F,home,1,1,1,no,yes,2,1,2,6,C,B+,B+,Bachelors,yes
 F,reputation,1,3,2,yes,yes,2,3,2,0,C,B,B,Masters,yes
 M,reputation,1,2,0,yes,no,2,4,4,11,C,B,B,12th Pass,yes
-M,reputation,1,2,0,yes,yes,2,3,5,9,B+,B+,A,Masters,No
-F,reputation,1,2,0,yes,yes,2,3,4,0,B+,A+,A+,12th Pass,No
+M,reputation,1,2,0,yes,yes,2,3,5,9,B+,B+,A,Masters,no
+F,reputation,1,2,0,yes,yes,2,3,4,0,B+,A+,A+,12th Pass,no
 M,reputation,1,3,0,no,yes,2,4,2,2,B,A,A,Masters,yes
 F,course,1,2,0,yes,yes,2,2,2,0,B+,A+,A+,Masters,yes
-M,course,2,2,2,yes,no,3,3,3,21,C,C,C,10th Pass,No
+M,course,2,2,2,yes,no,3,3,3,21,C,C,C,10th Pass,no
 F,reputation,2,3,0,no,yes,2,2,2,8,B,A,A,10th Pass,yes
-F,home,1,1,1,no,yes,2,2,5,5,C,C,B,Masters,No
-M,reputation,1,2,0,no,yes,2,4,4,10,A,A+,A+,Bachelors,No
-F,reputation,1,3,0,no,yes,2,3,4,5,B+,A+,A+,Bachelors,No
+F,home,1,1,1,no,yes,2,2,5,5,C,C,B,Masters,no
+M,reputation,1,2,0,no,yes,2,4,4,10,A,A+,A+,Bachelors,no
+F,reputation,1,3,0,no,yes,2,3,4,5,B+,A+,A+,Bachelors,no
 M,reputation,1,1,0,no,yes,2,1,3,13,B+,B+,B+,Bachelors,yes
-M,reputation,1,1,0,no,yes,3,3,4,10,D,B,B,12th Pass,No
+M,reputation,1,1,0,no,yes,3,3,4,10,D,B,B,12th Pass,no
 F,reputation,2,2,0,no,yes,2,1,4,10,B+,A+,A+,12th Pass,yes
-F,reputation,2,1,1,no,yes,3,3,1,5,D,C,C,10th Pass,No
+F,reputation,2,1,1,no,yes,3,3,1,5,D,C,C,10th Pass,no
 F,home,1,2,0,yes,yes,2,1,2,4,C,B+,B+,Bachelors,yes
 F,other,2,1,0,no,no,2,3,3,11,C,B,B,Bachelors,yes
-F,course,2,2,0,yes,yes,2,4,4,0,B,B,B,12th Pass,No
+F,course,2,2,0,yes,yes,2,4,4,0,B,B,B,12th Pass,no
 F,other,1,1,1,no,yes,2,1,3,6,C,C,C,10th Pass,yes
-F,course,2,1,0,no,yes,3,4,4,4,C,C,B,Bachelors,No
+F,course,2,1,0,no,yes,3,4,4,4,C,C,B,Bachelors,no
 F,course,2,2,0,no,yes,2,5,2,0,A,A+,A+,Bachelors,yes
 F,home,2,1,0,no,no,0,3,4,0,F,D,C,12th Pass,yes
 M,home,1,2,0,no,yes,3,3,2,5,C,B,B,Masters,yes
-M,other,1,3,0,no,yes,2,4,3,0,C,B,B,12th Pass,No
-F,course,1,2,1,no,yes,2,5,4,0,C,C,C,Bachelors,No
-F,other,1,1,1,no,no,3,4,4,0,F,F,D,10th Pass,No
+M,other,1,3,0,no,yes,2,4,3,0,C,B,B,12th Pass,no
+F,course,1,2,1,no,yes,2,5,4,0,C,C,C,Bachelors,no
+F,other,1,1,1,no,no,3,4,4,0,F,F,D,10th Pass,no
 F,course,2,1,0,no,yes,0,5,1,0,B+,B+,B+,Masters,yes
 F,reputation,2,4,0,yes,no,0,2,1,4,C,C,B,12th Pass,yes
 F,reputation,2,2,0,no,yes,3,4,3,0,C,C,C,10th Pass,yes
-F,course,2,1,1,no,yes,2,4,3,4,F,D,D,10th Pass,No
+F,course,2,1,1,no,yes,2,4,3,4,F,D,D,10th Pass,no
 F,other,2,1,0,yes,yes,2,2,3,0,B,B,B,12th Pass,yes
 F,course,2,1,0,no,yes,3,5,5,2,C,B,B,Bachelors,yes
 F,course,2,1,0,no,yes,2,1,3,0,B+,A,A,Bachelors,yes
 M,home,2,2,0,yes,yes,3,4,5,0,D,F,F,10th Pass,yes
 M,home,1,2,0,no,yes,2,4,3,4,D,C,C,10th Pass,yes
-M,reputation,1,2,0,yes,yes,3,3,4,0,B,B+,B+,Masters,No
+M,reputation,1,2,0,yes,yes,3,3,4,0,B,B+,B+,Masters,no
 M,reputation,1,2,0,yes,yes,3,3,4,7,D,C,D,Masters,yes
 M,other,3,2,0,no,yes,2,4,5,4,C,C,B,Masters,yes
 M,course,4,2,0,yes,yes,3,4,5,8,D,C,C,10th Pass,yes
 M,reputation,1,2,0,yes,yes,3,3,3,0,B,B,B,Bachelors,yes
 M,other,3,1,0,yes,no,3,5,5,8,D,C,C,12th Pass,yes
-F,course,2,3,0,yes,yes,2,2,2,6,A,A,A+,Masters,No
+F,course,2,3,0,yes,yes,2,2,2,6,A,A,A+,Masters,no
 F,course,2,1,0,no,yes,3,1,2,3,B,B+,B+,12th Pass,yes
 F,course,3,2,0,no,yes,2,5,4,2,A,A,A,Bachelors,yes
 M,course,2,2,0,no,yes,2,3,3,0,C,B,B,12th Pass,yes
@@ -455,54 +455,54 @@ F,course,3,2,0,no,yes,2,4,5,4,C,C,B,12th Pass,yes
 F,course,1,3,1,no,yes,0,3,2,0,C,D,D,12th Pass,yes
 F,course,1,3,1,no,yes,0,3,2,3,C,D,D,12th Pass,yes
 F,home,1,2,0,no,yes,2,4,2,0,C,C,C,12th Pass,yes
-F,course,1,2,0,no,yes,3,4,3,0,B+,B+,A,10th Pass,No
+F,course,1,2,0,no,yes,3,4,3,0,B+,B+,A,10th Pass,no
 M,reputation,1,1,0,yes,yes,3,5,5,4,C,B,B,12th Pass,yes
-F,home,4,4,0,no,yes,2,3,2,0,B+,C,B+,10th Pass,No
-F,other,4,3,0,no,yes,2,4,3,2,C,C,C,10th Pass,No
+F,home,4,4,0,no,yes,2,3,2,0,B+,C,B+,10th Pass,no
+F,other,4,3,0,no,yes,2,4,3,2,C,C,C,10th Pass,no
 F,home,2,2,0,yes,yes,2,3,3,1,B,C,B,10th Pass,yes
 F,other,2,1,0,yes,yes,2,2,2,0,B+,B,B+,10th Pass,yes
 F,course,3,2,0,no,yes,2,2,1,0,B+,B+,B+,10th Pass,yes
-F,other,1,3,0,no,yes,2,4,3,2,B+,B,B,12th Pass,No
+F,other,1,3,0,no,yes,2,4,3,2,B+,B,B,12th Pass,no
 M,other,2,1,0,yes,yes,2,4,4,6,B,B,B,10th Pass,yes
-F,course,1,2,1,yes,yes,2,4,4,9,C,D,D,12th Pass,No
+F,course,1,2,1,yes,yes,2,4,4,9,C,D,D,12th Pass,no
 M,home,2,1,0,no,yes,2,2,3,0,C,C,B,Bachelors,yes
 F,course,3,2,0,yes,yes,3,3,4,1,B+,B+,B+,12th Pass,yes
 M,reputation,3,1,0,no,yes,2,3,3,1,B+,B,B+,12th Pass,yes
 M,course,1,2,0,yes,yes,2,3,1,0,B+,B,B+,Masters,yes
-F,reputation,1,2,0,no,yes,2,5,4,4,B+,B,B,Bachelors,No
-F,course,2,2,1,yes,yes,2,4,4,2,B,B,B,12th Pass,No
+F,reputation,1,2,0,no,yes,2,5,4,4,B+,B,B,Bachelors,no
+F,course,2,2,1,yes,yes,2,4,4,2,B,B,B,12th Pass,no
 F,home,3,1,0,yes,yes,2,3,2,0,B+,B+,A,12th Pass,yes
 M,course,2,1,0,yes,yes,1,4,3,4,C,D,C,12th Pass,yes
-M,reputation,3,1,0,yes,yes,2,2,4,2,C,B,B,Bachelors,No
+M,reputation,3,1,0,yes,yes,2,2,4,2,C,B,B,Bachelors,no
 F,course,2,3,0,yes,yes,3,3,2,0,B,B+,B+,12th Pass,yes
 F,home,1,1,0,no,yes,3,4,3,2,C,D,D,12th Pass,yes
 M,course,2,1,0,yes,yes,2,3,3,11,B,C,B,Bachelors,yes
 F,course,2,2,3,no,yes,2,4,3,0,D,D,D,10th Pass,yes
 F,course,1,1,0,yes,no,2,5,3,4,C,C,C,12th Pass,yes
 F,course,1,1,1,no,no,2,4,4,0,C,C,C,Bachelors,yes
-F,course,3,1,0,yes,no,3,5,3,2,C,C,B,12th Pass,No
-F,course,2,1,0,no,no,3,2,1,0,C,C,C,10th Pass,No
-F,course,3,2,0,no,no,2,4,5,1,C,C,B,12th Pass,No
+F,course,3,1,0,yes,no,3,5,3,2,C,C,B,12th Pass,no
+F,course,2,1,0,no,no,3,2,1,0,C,C,C,10th Pass,no
+F,course,3,2,0,no,no,2,4,5,1,C,C,B,12th Pass,no
 F,home,1,1,0,no,no,2,3,4,6,D,D,D,12th Pass,yes
 F,course,2,2,0,no,yes,2,3,5,0,B,C,B,12th Pass,yes
 F,course,1,1,1,yes,yes,2,4,3,1,C,C,C,12th Pass,yes
 F,course,2,3,2,no,no,2,3,2,6,D,C,C,Bachelors,yes
 F,course,1,3,1,yes,no,3,3,1,6,D,C,C,10th Pass,yes
 M,home,2,1,1,yes,no,2,4,3,0,D,C,C,10th Pass,yes
-F,course,2,1,1,no,no,2,2,3,4,C,B,C,10th Pass,No
-F,course,2,2,1,no,yes,0,1,4,12,D,D,C,10th Pass,No
+F,course,2,1,1,no,no,2,2,3,4,C,B,C,10th Pass,no
+F,course,2,2,1,no,yes,0,1,4,12,D,D,C,10th Pass,no
 F,course,1,2,0,no,yes,2,3,2,2,D,C,C,12th Pass,yes
 F,course,2,1,0,yes,yes,1,4,4,5,C,C,C,10th Pass,yes
-F,course,1,2,0,yes,no,2,4,5,0,D,C,C,12th Pass,No
+F,course,1,2,0,yes,no,2,4,5,0,D,C,C,12th Pass,no
 F,reputation,1,1,0,yes,no,2,5,4,0,B+,B+,B+,Bachelors,yes
 F,home,1,1,0,yes,yes,2,4,4,2,B+,B+,B+,10th Pass,yes
-M,course,2,4,1,yes,yes,3,4,5,0,C,B,C,Bachelors,No
-F,course,1,2,0,yes,yes,3,3,3,0,B+,B+,B+,12th Pass,No
+M,course,2,4,1,yes,yes,3,4,5,0,C,B,C,Bachelors,no
+F,course,1,2,0,yes,yes,3,3,3,0,B+,B+,B+,12th Pass,no
 F,course,1,1,0,yes,yes,2,2,5,0,A+,A,A,12th Pass,yes
 M,course,1,1,1,yes,no,3,3,5,12,F,D,D,12th Pass,yes
-M,course,1,1,0,yes,yes,2,2,5,8,B+,B,B+,Masters,No
+M,course,1,1,0,yes,yes,2,2,5,8,B+,B,B+,Masters,no
 M,other,3,4,1,no,yes,0,3,5,2,C,D,C,12th Pass,yes
-F,course,1,4,0,yes,yes,1,2,1,0,B+,B+,B+,10th Pass,No
+F,course,1,4,0,yes,yes,1,2,1,0,B+,B+,B+,10th Pass,no
 F,home,1,3,0,no,yes,3,4,5,0,B,B+,B+,12th Pass,yes
 F,reputation,2,1,0,yes,yes,2,4,5,0,B,B,B,10th Pass,yes
 F,other,2,2,1,yes,yes,2,3,4,8,B,C,C,Bachelors,yes
@@ -510,18 +510,18 @@ F,course,1,3,0,no,yes,2,3,3,0,B,B,C,10th Pass,yes
 M,course,3,1,1,no,yes,2,4,5,0,C,C,C,12th Pass,yes
 F,course,3,2,0,no,yes,3,3,2,0,A,A+,A+,10th Pass,yes
 F,reputation,2,2,0,yes,yes,3,3,2,0,A,A+,A+,12th Pass,yes
-F,other,2,2,0,no,yes,2,4,5,1,B,C,C,10th Pass,No
+F,other,2,2,0,no,yes,2,4,5,1,B,C,C,10th Pass,no
 F,other,1,2,1,no,yes,2,3,2,9,D,D,D,10th Pass,yes
 F,course,1,1,0,yes,yes,2,1,3,0,D,F,D,Bachelors,yes
-F,course,1,1,0,no,yes,2,1,3,2,D,F,D,Bachelors,No
+F,course,1,1,0,no,yes,2,1,3,2,D,F,D,Bachelors,no
 F,reputation,2,2,0,no,yes,1,3,5,8,C,D,C,10th Pass,yes
 F,reputation,1,2,0,yes,yes,2,3,3,0,B+,A,A,Masters,yes
 F,reputation,2,1,0,yes,yes,3,4,5,0,B+,B+,A,12th Pass,yes
 F,reputation,1,2,1,no,yes,1,3,2,8,D,F,D,Masters,yes
 M,reputation,2,2,0,yes,yes,3,2,1,0,D,D,F,12th Pass,yes
 F,other,3,2,0,no,yes,2,3,2,6,F,D,D,10th Pass,yes
-F,other,2,2,0,yes,yes,2,3,3,0,D,C,C,Bachelors,No
-F,course,1,2,0,no,yes,2,3,4,4,D,D,D,Masters,No
+F,other,2,2,0,yes,yes,2,3,3,0,D,C,C,Bachelors,no
+F,course,1,2,0,no,yes,2,3,4,4,D,D,D,Masters,no
 M,home,1,4,0,yes,no,3,5,5,2,F,F,F,Masters,yes
 F,other,3,2,0,no,yes,2,2,1,2,D,C,D,Masters,yes
 M,home,1,3,0,no,yes,2,4,3,0,A,B+,A,Masters,yes
